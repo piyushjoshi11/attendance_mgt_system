@@ -8,3 +8,13 @@ C:\Users\piyus\source\repos\piyushjoshi11\attendance_mgt_system\project\obj\Debu
 C:\Users\piyus\source\repos\piyushjoshi11\attendance_mgt_system\project\obj\Debug\project.csproj.CoreCompileInputs.cache
 C:\Users\piyus\source\repos\piyushjoshi11\attendance_mgt_system\project\obj\Debug\project.exe
 C:\Users\piyus\source\repos\piyushjoshi11\attendance_mgt_system\project\obj\Debug\project.pdb
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\bin\Debug\project.exe.config
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\bin\Debug\project.exe
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\bin\Debug\project.pdb
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.Form1.resources
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.exe
+C:\Users\piyus\Source\Repos\attendance_mgt_system\project\obj\Debug\project.pdb
