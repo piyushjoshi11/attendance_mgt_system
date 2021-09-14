@@ -10,22 +10,18 @@ using System.Windows.Forms;
 
 namespace csharpproject
 {
-    public partial class Form1 : Form
+    public partial class Form23 : Form
     {
-        public Form1()
+        public Form23()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            Form2 F = new Form2();
-            F.Show();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            Form2 choose = new Form2();
+            choose.Show();
+            Close();
         }
     }
 }
