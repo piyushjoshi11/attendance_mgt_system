@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\csharpproject",
+    "\\project",
     "\\project\\Properties"
   ],
-  "SelectedNode": "\\project",
+  "SelectedNode": "\\csharpproject\\csharpproject.sln",
   "PreviewInSolutionExplorer": false
 }
