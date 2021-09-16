@@ -21,5 +21,12 @@ namespace csharpproject
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Formtr tRegis = new Formtr();
+            tRegis.Show();
+            
+        }
     }
 }

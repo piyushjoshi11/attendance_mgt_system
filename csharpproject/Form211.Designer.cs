@@ -62,6 +62,7 @@ namespace csharpproject
             this.button3.TabIndex = 2;
             this.button3.Text = "REGISTER TEACHER DETAILS ";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 

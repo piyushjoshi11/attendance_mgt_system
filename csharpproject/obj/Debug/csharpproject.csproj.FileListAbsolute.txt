@@ -14,3 +14,5 @@ C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharp
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.pdb
 C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\bin\Debug\Schooldb.mdf
 C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\bin\Debug\Schooldb_log.ldf
+C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form211.resources
+C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Formtr.resources
