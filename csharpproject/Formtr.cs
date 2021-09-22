@@ -35,9 +35,10 @@ namespace csharpproject
             cmd.Parameters.AddWithValue("@name", textBox1.Text);
             cmd.Parameters.AddWithValue("@sex", textBox2.Text);
             cmd.Parameters.AddWithValue("@DOB", textBox3.Text);
-            cmd.Parameters.AddWithValue("@id", textBox4.Text);
-            cmd.Parameters.AddWithValue("@password", textBox5.Text);
-            
+            cmd.Parameters.AddWithValue("@subject", textBox4.Text);
+            cmd.Parameters.AddWithValue("@id", textBox5.Text);
+            cmd.Parameters.AddWithValue("@password", textBox6.Text);
+            MessageBox.Show("done ");
             
             con.Open();
             cmd.ExecuteNonQuery();
