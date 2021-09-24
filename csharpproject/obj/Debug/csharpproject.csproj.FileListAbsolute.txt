@@ -17,3 +17,4 @@ C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\bin\Debug\School
 C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form211.resources
 C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Formtr.resources
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.tdetails.resources
+C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.stureg.resources
