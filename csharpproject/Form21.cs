@@ -47,7 +47,7 @@ namespace csharpproject
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form2 choose = new Form2();
+            Landing choose = new Landing();
             choose.Show();
             Close();
         }

@@ -10,18 +10,16 @@ using System.Windows.Forms;
 
 namespace csharpproject
 {
-    public partial class Form23 : Form
+    public partial class student_panel : Form
     {
-        public Form23()
+        public student_panel()
         {
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            Landing choose = new Landing();
-            choose.Show();
-            Close();
+
         }
     }
 }

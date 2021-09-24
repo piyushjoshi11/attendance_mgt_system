@@ -19,7 +19,7 @@ namespace csharpproject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 F = new Form2();
+            Landing F = new Landing();
             F.Show();
         }
 
