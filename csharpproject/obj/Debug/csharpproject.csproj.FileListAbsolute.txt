@@ -1,6 +1,5 @@
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.csproj.AssemblyReference.cache
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form1.resources
-C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form2.resources
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form21.resources
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form22.resources
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Form23.resources
@@ -18,3 +17,5 @@ C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\obj\Debug\csharp
 C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Formtr.resources
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.tdetails.resources
 C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.stureg.resources
+C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.student_panel.resources
+C:\Users\piyus\source\repos\attendance_mgt_system\csharpproject\obj\Debug\csharpproject.Landing.resources

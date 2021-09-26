@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace csharpproject
 {
@@ -39,10 +40,32 @@ namespace csharpproject
 
         private void button1_Click(object sender, EventArgs e)
         {
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\piyus\Source\Repos\attendance_mgt_system\csharpproject\Schooldb.mdf;Integrated Security=True");
+            SqlCommand cmd = new SqlCommand("SELECT *FROM Teacherlogin where id = @id and password= @password", con);
+            cmd.Parameters.AddWithValue("@id", textBox1.Text);
+            cmd.Parameters.AddWithValue("@password", textBox2.Text);
+            SqlDataAdapter sda = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            con.Open();
+            int i = cmd.ExecuteNonQuery();
+            con.Close();
+            if (dt.Rows.Count > 0)
+            {
+                teacherdash tdash = new teacherdash();
+                tdash.Show();
+                Close();
+            }
+            else
+            {
+                MessageBox.Show("Incorrect id or password ");
+            }
 
-        }
+        
 
-        private void label3_Click(object sender, EventArgs e)
+    }
+
+    private void label3_Click(object sender, EventArgs e)
         {
 
         }
@@ -52,7 +75,6 @@ namespace csharpproject
             Landing choose = new Landing();
             choose.Show();
             Close();
-
         }
     }
 }
