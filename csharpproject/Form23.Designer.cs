@@ -44,7 +44,7 @@ namespace csharpproject
             this.label3.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(188, 142);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(103, 24);
+            this.label3.Size = new System.Drawing.Size(133, 32);
             this.label3.TabIndex = 11;
             this.label3.Text = "Password";
             // 
@@ -54,7 +54,7 @@ namespace csharpproject
             this.label2.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(185, 94);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(37, 24);
+            this.label2.Size = new System.Drawing.Size(51, 32);
             this.label2.TabIndex = 10;
             this.label2.Text = "ID ";
             // 
@@ -76,7 +76,7 @@ namespace csharpproject
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(192, 207);
+            this.button1.Location = new System.Drawing.Point(192, 218);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(455, 82);
             this.button1.TabIndex = 7;
@@ -90,7 +90,7 @@ namespace csharpproject
             this.label1.Font = new System.Drawing.Font("Arial", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(256, 32);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(274, 37);
+            this.label1.Size = new System.Drawing.Size(345, 46);
             this.label1.TabIndex = 6;
             this.label1.Text = "STUDENT LOGIN";
             // 
