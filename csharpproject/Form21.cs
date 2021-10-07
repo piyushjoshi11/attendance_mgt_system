@@ -51,5 +51,15 @@ namespace csharpproject
             choose.Show();
             Close();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form21_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
