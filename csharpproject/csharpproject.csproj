@@ -155,6 +155,12 @@
     <EmbeddedResource Include="Formtr.resx">
       <DependentUpon>Formtr.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Landing.aa-DJ.resx">
+      <DependentUpon>Landing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Landing.en.resx">
+      <DependentUpon>Landing.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Landing.resx">
       <DependentUpon>Landing.cs</DependentUpon>
     </EmbeddedResource>
